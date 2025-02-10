@@ -32,7 +32,7 @@ body{
         grid-area:header;
         background-color: purple;
         border-radius: 0;
-        font-size: 5dvh;
+        
     }
     .navbar {
         grid-area:navbar;
